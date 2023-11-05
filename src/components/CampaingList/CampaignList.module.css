@@ -1,0 +1,39 @@
+.campaignList {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.campaignList th,
+.campaignList td {
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.campaignList th {
+  background-color: #005a34;
+  color: white;
+  font-weight: normal;
+}
+
+.campaignList tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.campaignList tr:hover {
+  background-color: #fcfca8;
+}
+
+.active {
+  background-color: #e8f5e9;
+}
+
+.inactive {
+  background-color: #fbe9e7;
+}
+
+.sortIcon {
+  margin-left: 5px;
+}
