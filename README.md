@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 To get started with Campaign Manager, clone the repository to your local machine:
 
-git clone https://your-repository-url.git
+git clone https://github.com/vanitas93/campaign-manager
 
 Navigate to the project directory:
 
